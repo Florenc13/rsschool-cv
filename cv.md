@@ -13,6 +13,8 @@ I live and work in Moscow. Graduated from the MIREA Institute with a degree in R
 ### Skills
 * Experienced PC user
 <<<<<<< HEAD
+
+### Code Example
 ```
 <header>
   <img src="/logo.png" alt="Логотип">
